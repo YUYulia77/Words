@@ -1,5 +1,6 @@
 # Words
-<h2><b>А.С. Пушкин. ПИКОВАЯ ДАМА</b></h2>
+<h2><b>А.С. Пушкин. 
+  ПИКОВАЯ ДАМА</b></h2>
   <h3><em>Анализ текста повести с использованием веб-приложения Voyant Tools</h3></em>
  
  <!--	Exported from Voyant Tools (voyant-tools.org).
