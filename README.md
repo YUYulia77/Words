@@ -6,7 +6,7 @@
  
 <https://voyant-tools.org/?stopList=keywords-d6c030fdc2bca26832a3ed65ada5297f&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=0965b50470339dc468ee9885bfb1c03f>
 
-<https://voyant-tools.org/?stopList=keywords-d6c030fdc2bca26832a3ed65ada5297f&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=0965b50470339dc468ee9885bfb1c03f>
+https://voyant-tools.org/?corpus=0965b50470339dc468ee9885bfb1c03f&view=bubbles&stopList=keywords-d6c030fdc2bca26832a3ed65ada5297f&panels=cirrus,reader,trends,summary,contexts
 
 
 
