@@ -4,7 +4,7 @@
   ПИКОВАЯ ДАМА</b></h2>
   <h3>Анализ текста повести с использованием веб-приложения Voyant Tools</h3>
  
-<https://voyant-tools.org/?stopList=keywords-d6c030fdc2bca26832a3ed65ada5297f&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=0965b50470339dc468ee9885bfb1c03f>
+<h4><em><a href=https://voyant-tools.org/?stopList=keywords-d6c030fdc2bca26832a3ed65ada5297f&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=0965b50470339dc468ee9885bfb1c03f>Визуализация 1</h4></em>
 
 <h4><em> Анализ показывает, что чаще всего в повести повторяются слова, указывающие на главных героев повести, - это Германн, графиня, Лизавета Ивановна. Интересен тот факт, что имя Германн упоминается в 2 раза чаще по сравнению с другими. Таким образом, мы можем сделать вывод, что автора прежде всего интересует личность этого героя, превратности его судьбы.</h4></em>
 
