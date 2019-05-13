@@ -27,7 +27,7 @@
 
 <h4><em>Тексты, входящие в корпус, написаны разными авторами, поэтому в фокусе оказались служебные части речи, а именно предлоги. В StopList были включены знаменательные части речи, а также некоторые служебные (союзы, частицы).</h4></em>
 
-<h4><em><a href=https://voyant-tools.org/tool/CorpusTerms/?stopList=keywords-f59fb969475cdfa4ddf5e15d897e979e&comparisonCorpus=&corpus=892b8ab8fae5934bbff296c7700aa462 Визуализация Terms</h4></em>
+<h4><em><a href=https://voyant-tools.org/tool/CorpusTerms/?stopList=keywords-f59fb969475cdfa4ddf5e15d897e979e&comparisonCorpus=&corpus=892b8ab8fae5934bbff296c7700aa462>Визуализация Terms</h4></em>
 
 <h4><em>Анализ данных позволяет нам увидеть количественное соотношение наиболее частотных предлогов, а также отметить тенденцию их употребления в каждом тексте корпуса в виде графика.</h4></em>
 
