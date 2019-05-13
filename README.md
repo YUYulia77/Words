@@ -16,7 +16,7 @@
 
 <h4><em>Анализ даёт возможность понять, какие герои повести чаще всего взаимодействуют друг с другом на протяжении всего произведения и насколько интенсивно. Кроме того, благодаря данной визуализации, мы можем увидеть, что Германн действительно одержим картами: имя главного героя и слово "карты" достаточно часто употребляются в одних и тех же контекстах.</h4></em>
 
-<h4><em><a href=https://voyant-tools.org/?stopList=keywords-f981a2004f1fb0d081364ca30e5ba3f7&panels=cirrus%2Creader%2Cbubblelines%2Csummary%2Cstreamgraph&corpus=0965b50470339dc468ee9885bfb1c03f'>Все визуализации</h4></em>
+<h4><em><a href=https://voyant-tools.org/?stopList=keywords-f981a2004f1fb0d081364ca30e5ba3f7&panels=cirrus%2Creader%2Cbubblelines%2Csummary%2Cstreamgraph&corpus=0965b50470339dc468ee9885bfb1c03f>Все визуализации</h4></em>
  
 # II.
 
