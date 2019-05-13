@@ -21,8 +21,12 @@
 
 # II.
 
-<h2><b>Тексты (Readability)</b></h2>
+<h2><b>Корпус текстов (Readability)</b></h2>
 
-<h4><em><a href=https: Визуализация 1</h4></em>
+<h4><em><a href=https://voyant-tools.org/?stopList=keywords-f59fb969475cdfa4ddf5e15d897e979e&panels=corpusterms%2Creader%2Cmicrosearch%2Csummary%2Ctrends&corpus=892b8ab8fae5934bbff296c7700aa462>Все визуализации</h4></em>
+
+<h4><em>Тексты, входящие в корпус, написаны разными авторами, поэтому в фокусе оказались служебные части речи, а именно предлоги. В StopList были включены различные словоформы знаменательных частей речи, а также некоторые служебные части речи (союзы, частицы).</h4></em>
+
+<h4><em><a href=https: Визуализация </h4></em>
   
-<h4><em><a href=https: Визуализация 2</h4></em>
+<h4><em><a href=https: Визуализация </h4></em>
